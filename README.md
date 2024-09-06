@@ -1,8 +1,8 @@
 - Hi, My name is Ronnee
 
-- I mostly use Python, PowerShell, and some JavaScript
+- I mostly use Bash, Python, PowerShell, and some JavaScript. Some of the repositories here include no code and are just for network topologies.
 
-- 💞️ I use coding for work purposes, but also enjoy making musical and math projects
+- I use coding for work purposes, but also enjoy making musical and math projects
 
 - 📫 My email is Sears0314@gmail.com
 
